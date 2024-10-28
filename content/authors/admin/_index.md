@@ -114,5 +114,8 @@ skills:
 
 ## Biography
 
-Hi, I’m an undergraduate student in Artificial Intelligence at Huazhong University of Science and Technology, with a strong enthusiasm for advancing science through innovative AI models and practical applications.
-Throughout my academic journey, I’ve actively engaged in research that pushes the boundaries of AI in healthcare. Currently, I’m working as a visiting student at Peking University, leading a project on EEG-based cross-patient seizure classification with the help of Dr. Haoxuan Li. Our work focuses on innovating invariant spatiotemporal representation learning to enhance model robustness across different patient datasets. Our recent findings were recognized at NeuroAI @ NeurIPS 2024, an event organized by Yoshua Bengio, a pioneer in the deep learning field and a 2018 Turing Award recipient. Being acknowledged at such a prestigious venue has been a rewarding milestone in my research career.
+Hi, I’m an undergraduate student in Artificial Intelligence at Huazhong University of Science and Technology and currently a visiting student at Peking University, where I work with Dr. Haoxuan Li on EEG-based cross-patient seizure classification. Our project, which advances robust spatiotemporal representation methods, was recognized at NeuroAI @ NeurIPS 2024, organized by Turing Award recipient Yoshua Bengio. Being acknowledged at such a prestigious venue has been a rewarding milestone in my research career.
+
+My research experience spans image blending, object detection, and AI for Science applications. I also interned at LongShine Technology Group, where I gained hands-on experience in Kubernetes cluster management and real-time monitoring. I’m passionate about using deep learning and AI to address scientific challenges, particularly in healthcare and neuroscience.
+
+Outside of research, I enjoy canoeing, wilderness survival, and playing guitar and drums.
