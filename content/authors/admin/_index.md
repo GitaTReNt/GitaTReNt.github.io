@@ -45,8 +45,8 @@ interests:
 education:
   - area: B.Eng in Artificial Intelligence
     institution: Huazhong University of Science and Technology， 2021-
-    date_start: 2021-9-1
-    date_end: 2025-7-1
+    date_start: 2021-09-01
+    date_end: 2025-07-01
     summary: |
       GPA: 80/100 (GPA of the 6th semester: 85.96/100 )
 
