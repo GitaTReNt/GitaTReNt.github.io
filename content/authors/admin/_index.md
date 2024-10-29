@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: https://trent.wu16@gmail.com
+    url: "mailto:trent.wu16@gmail.com"
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/GitaTReNt

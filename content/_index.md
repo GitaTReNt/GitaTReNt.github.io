@@ -70,7 +70,7 @@ sections:
       columns: 2
 
 
-  - block: collection
+  - block: resume-experience
     id: experience
     content:
       title: Experience
