@@ -4,7 +4,7 @@ date: 2022-01-01
 # external_link: https://github.com/GitaTReNt/swin-transformer-cifar100
 featured: true
 tags:
-  - dl
+  - app design
 ---
 
 A Booking Simulation Software Similar to Booking.com, built in C Language.

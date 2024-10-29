@@ -3,7 +3,8 @@ title: Image Blending
 date: 2023-05-10
 external_link: https://github.com/GitaTReNt/DEEPIMAGEBLENDING
 featured: true
-  - 
+tags:
+  - CV
 ---
 
 - Based on the paper "Deep Image Blending".
