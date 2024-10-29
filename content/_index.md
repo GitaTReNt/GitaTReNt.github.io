@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
+  - block: custom-publications
     id: papers
     content:
       title: Publications
