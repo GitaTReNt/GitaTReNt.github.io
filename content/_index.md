@@ -53,6 +53,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      css_class: bg-gray-100
 
 
   - block: collection
@@ -78,6 +79,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      css_class: bg-gray-100
   # - block: collection
   #   id: news
   #   content:
