@@ -43,6 +43,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: partial
+    name: "publications-section"
     id: papers
     content:
       title: Publications
