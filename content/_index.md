@@ -61,14 +61,17 @@ sections:
     id: projects
     content:
       title: Projects
+      text: 
       filters:
         folders:
           - publication
           - project
-        featured_only: true
+
     design:
       view: article-grid
       columns: 2
+
+
 
 
   - block: resume-experience
