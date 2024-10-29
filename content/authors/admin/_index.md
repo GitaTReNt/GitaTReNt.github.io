@@ -100,7 +100,8 @@ work:
     date_start: 2022-10-15
     date_end: '2023-07-01'
     summary: |2-
-
+      Advisor:
+      - Bin Shi, Associate Professor
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
