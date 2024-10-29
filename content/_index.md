@@ -54,7 +54,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      css_class: bg-gray-100
+      css_class: publications-section
 
 
   - block: collection

@@ -1,0 +1,16 @@
+.publications-section {
+    display: flex;
+    align-items: flex-start;
+}
+
+.publications-title {
+    width: 20%;
+    font-size: 2rem; /* 根据需要调整标题的字体大小 */
+    font-weight: bold;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.publications-content {
+    width: 80%;
+}
