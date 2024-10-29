@@ -58,10 +58,20 @@ education:
   
 
 work:
+
+  - position: Visiting Student
+    company_name: Peking University
+    company_url: 'https://english.pku.edu.cn/'
+    company_logo: 'R.jpg'
+    date_start: 2024-05-10
+    date_end: ''
+    summary: |2-
+    
+
   - position: System Engineer
     company_name: LongShine Technology Group Co.,Ltd
     company_url: 'https://www.longshine.com/'
-    company_logo: ''
+    company_logo: 'L.jpg'
     date_start: 2024-06-30
     date_end: '2024-07-30'
     summary: |2-
@@ -73,14 +83,24 @@ work:
   - position: System Engineer
     company_name: LongShine Technology Group Co.,Ltd
     company_url: 'https://www.longshine.com/'
-    company_logo: ''
+    company_logo: 'L.jpg'
     date_start: 2023-07-01
-    date_end: '2023-07-30'
+    date_end: '2023-08-01'
     summary: |2-
       Responsibilities include:
       - Operation and maintenance of the Jingtong system
       - Applications deployment
       - Clusters construction
+
+
+  - position: Research Intern
+    company_name: Xi'an Jiaotong University
+    company_url: 'http://en.xjtu.edu.cn/'
+    company_logo: 'X.jpg'
+    date_start: 2022-10-15
+    date_end: '2023-07-01'
+    summary: |2-
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
