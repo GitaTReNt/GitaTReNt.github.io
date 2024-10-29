@@ -1,6 +1,6 @@
 ---
 title: Bee detection and tracking
-date: 2024-6-17
+date: 2024-06-17
 external_link: https://github.com/GitaTReNt/Bee-tracking
 tags:
   - dl
