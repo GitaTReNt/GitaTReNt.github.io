@@ -14,10 +14,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - "Equal contribution"
+  - "Equal contribution"
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-10-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,13 +32,13 @@ publication_types: ['paper-conference']
 publication: In *The First Workshop on NeuroAI @ NeurIPS2024*
 publication_short: In *NeuroAI @ NeurIPS2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Automatic seizure type classification from electroencephalogram (EEG) data can help clinicians to better diagnose epilepsy. Although many previous studies have focused on the classification problem of seizure EEG data, most of these methods require that there is no distribution shift between training data and test data, which greatly limits the applicability in real-world scenarios. In this paper, we propose an invariant spatiotemporal representation learning method for cross-patient seizure classification. Specifically, we first split the spatiotemporal EEG data into different environments based on heterogeneous risk minimization to reflect the spurious correlations. We then learn invariant spatiotemporal representations and train the seizure classification model based on the learned representations to achieve accurate seizure-type classification across various environments. The experiments are conducted on the largest public EEG dataset, the Temple University Hospital Seizure Corpus (TUSZ) dataset, and the experimental results demonstrate the effectiveness of our method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we propose an invariant spatiotemporal representation learning method for cross-patient seizure classification. 
 
 tags:
-  - Large Language Models
+  - applications to neuroscience & cognitive science
 
 # Display this page in the Featured widget?
 featured: true
