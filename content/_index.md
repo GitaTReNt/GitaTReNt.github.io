@@ -42,8 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: partial
-    name: "publications-section"
+  - block: collection
     id: papers
     content:
       title: Publications
