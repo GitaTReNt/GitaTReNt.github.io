@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: custom-publications
+  - block: partial
     id: papers
     content:
       title: Publications
@@ -54,8 +54,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      css_class: publications-section
-
+      css_class: bg-gray-100
 
   - block: collection
     id: projects
