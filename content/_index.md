@@ -50,6 +50,7 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: paper-conference # #####
         exclude_featured: false
     design:
       view: citation
