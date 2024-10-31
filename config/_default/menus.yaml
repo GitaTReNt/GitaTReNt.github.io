@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Publications
-    url: /#papers
+    url: "#papers"
     weight: 11
   # - name: Talks
   #   url: /#talks
@@ -18,11 +18,11 @@ main:
   #   weight: 13
 
   - name: Projects
-    url: /#projects
-    weight: 30
+    url: "#projects"
+    weight: 12
 
   - name: Experience
-    url: /#experience
+    url: "#experience"
     weight: 20
 
   # - name: Teaching

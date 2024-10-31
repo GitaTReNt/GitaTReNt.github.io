@@ -35,6 +35,7 @@ header:
     show_search: false
     show_theme_chooser: true
     logo:
+      image: "logo.png"  # 指向你图标文件的相对路径
       text: "Yuntian Wu"
 
 # Site footer
