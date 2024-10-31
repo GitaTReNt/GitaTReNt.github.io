@@ -63,7 +63,6 @@ sections:
       text: 
       filters:
         folders:
-          - publication
           - project
 
     design:
