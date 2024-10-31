@@ -1,5 +1,5 @@
 ---
-title: Swin-Transformer for cifar-100 classification
+title: Intelligent vehicle
 date: 2023-01-01
 external_link: https://github.com/GitaTReNt/Intelligent-Control
 featured: true
