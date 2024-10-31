@@ -14,8 +14,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - "Equal contribution"
+  - "Equal contribution"
 
 date: '2024-10-12T00:00:00Z'
 doi: ''
