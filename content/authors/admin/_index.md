@@ -48,7 +48,7 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      GPA: 80/100 (GPA of the 6th semester: 85.96/100 )
+      GPA: 80.2/100 (GPA of the 6th semester: 86.77/100 )
 
       Selected Relevant Courses :
       - Introduction to Brain and Cognition Science (Score: 87/100)
