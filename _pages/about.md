@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student in the Artificial Intelligence Engineering program at Carnegie Mellon University (CMU). Prior to joining CMU, I received my B.Eng degree in Artificial Intelligence from Huazhong University of Science and Technology (HUST). During my undergraduate studies, I was fortunate to work with Professor Hao Lu at HUST, Professor Bin Shi at Xi'an Jiaotong University, and Dr. Haoxuan Li at Peking University.
+I am a graduate student in the Artificial Intelligence Engineering program at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Prior to joining CMU, I received my B.Eng degree in Artificial Intelligence from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). During my undergraduate studies, I was fortunate to work with Professor [Hao Lu](https://sites.google.com/site/poppinace/) at HUST, Professor [Bin Shi](https://gr.xjtu.edu.cn/web/shibin/english-version) at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), and Dr. [Haoxuan Li](https://haoxuanli-pku.github.io/) at [Peking University](https://english.pku.edu.cn/).
 
-My research interests lie in multimodal large language models, AI for Healthcare, and Trustworthy Machine Learning. I am open to collaborative research opportunities.
+My research interests lie in **multimodal large language models** (MLLMs), **AI for healthcare**, and **trustworthy machine learning**. I am open to collaborative research opportunities.
 
 I am actively looking for research internships starting soon and PhD opportunities beginning in 2027.
 
