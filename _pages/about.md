@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a graduate student in the Artificial Intelligence Engineering program at Carnegie Mellon University (CMU). Prior to joining CMU, I received my B.Eng degree in Artificial Intelligence from Huazhong University of Science and Technology (HUST). During my undergraduate studies, I was fortunate to work with Professor Hao Lu at HUST, Professor Bin Shi at Xi'an Jiaotong University, and Dr. Haoxuan Li at Peking University.
 
-My research interest includes
+My research interests lie in multimodal large language models, AI for Healthcare, and Trustworthy Machine Learning. I am open to collaborative research opportunities.
+
+I am actively looking for research internships starting soon and PhD opportunities beginning in 2027.
 
 # 📝 Publications 
 
@@ -47,6 +49,5 @@ My research interest includes
 - *2021.09 - 2025.07*, B.Eng, Huazhong University of Science and Technology. 
 
 # 💻 Internships
-- *2024.05 - 2025.08*, LongShine Technology Group Co., Ltd., China.
 - *2024.07 - 2024.08*, LongShine Technology Group Co., Ltd., China.
 - *2023.07 - 2023.08*, LongShine Technology Group Co., Ltd., China.
