@@ -48,7 +48,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 - *2025.08 - Present*, MS, Carnegie Mellon University. 
 - *2021.09 - 2025.07*, B.Eng, Huazhong University of Science and Technology. 
 
-# 💻 Internships
+# 💻 Internships 
 - *2026.01 - 2026.05*, Teaching Assistant, _42-632 Neural Signal Processing_, Carnegie Mellon University.
 - *2024.07 - 2024.08*, LongShine Technology Group Co., Ltd., China.
 - *2023.07 - 2023.08*, LongShine Technology Group Co., Ltd., China.
