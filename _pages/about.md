@@ -45,7 +45,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 
 # 📖 Educations
-- *2025.08 - Present*, MS, Carnegie Mellon University. 
+- *2025.08 - Present*, MS, Carnegie Mellon University (with Department Head's Fellowship). 
 - *2021.09 - 2025.07*, B.Eng, Huazhong University of Science and Technology. 
 
 # 💻 Internships 
