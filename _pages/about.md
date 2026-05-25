@@ -25,7 +25,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/tat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026 _Spotlight_</div><img src='images/tat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TATTOO: Training-free AesTheTic-aware Outfit recOmmendation](https://arxiv.org/pdf/2509.23242)
