@@ -21,7 +21,7 @@ I am a graduate student in the Artificial Intelligence Engineering program at [C
 
 My research interests lie in **multimodal large language models** (MLLMs), **AI for healthcare**, and **trustworthy machine learning**. I am open to collaborative research opportunities.
 
-<font color=red>I am actively looking for research internships starting soon and PhD opportunities beginning in 2027！</font>
+<font color=red>I am actively looking for PhD opportunities beginning in 2027！</font>
 
 # 📝 Publications 
 
