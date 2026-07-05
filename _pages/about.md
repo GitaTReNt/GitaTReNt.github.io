@@ -30,11 +30,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 [SensorGen](https://tennis-rabbit.github.io/sensor-gen/)
 
-Zitao Shuai<sup>1*</sup>, Zongzhe Xu<sup>1*</sup>, Yuntian Wu<sup>2*</sup>, Sirui Li<sup>1</sup>, Tianhong Li<sup>3</sup>, Yuzhe Yang<sup>1&dagger;</sup>
-
-<sup>1</sup>University of California, Los Angeles &nbsp; <sup>2</sup>Carnegie Mellon University &nbsp; <sup>3</sup>Massachusetts Institute of Technology
-
-\*Equal contribution &nbsp; &dagger;Corresponding author
+**Zitao Shuai**, **Zongzhe Xu**, **Yuntian Wu**, Sirui Li, Tianhong Li, Yuzhe Yang
 </div>
 </div>
 
