@@ -25,6 +25,19 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><video class="paper-media" src='images/sensorgen_teaser.mp4' width="100%" autoplay loop muted playsinline preload="metadata"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SensorGen](https://tennis-rabbit.github.io/sensor-gen/)
+
+Zitao Shuai<sup>1*</sup>, Zongzhe Xu<sup>1*</sup>, Yuntian Wu<sup>2*</sup>, Sirui Li<sup>1</sup>, Tianhong Li<sup>3</sup>, Yuzhe Yang<sup>1&dagger;</sup>
+
+<sup>1</sup>University of California, Los Angeles &nbsp; <sup>2</sup>Carnegie Mellon University &nbsp; <sup>3</sup>Massachusetts Institute of Technology
+
+\*Equal contribution &nbsp; &dagger;Corresponding author
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026 Spotlight</div><img src='images/tat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
