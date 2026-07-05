@@ -25,7 +25,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><video class="paper-media" src='images/sensorgen_teaser.mp4' width="100%" autoplay loop muted playsinline preload="metadata"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video class="paper-media" src='images/sensorgen_teaser.mp4' width="100%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SensorGen](https://tennis-rabbit.github.io/sensor-gen/)
