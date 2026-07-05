@@ -30,7 +30,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 <a href="https://tennis-rabbit.github.io/sensor-gen/">Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series</a>
 
-[**Zitao Shuai**](https://zitao-shuai.github.io/), [**Zongzhe Xu**](https://github.com/Zongzhe-Xu/), **Yuntian Wu**, Sirui Li, [Tianhong Li](https://www.tianhongli.me/), [Yuzhe Yang](https://web.cs.ucla.edu/~yuzhe/)
+**Zitao Shuai**, **Zongzhe Xu**, **Yuntian Wu**, Sirui Li, Tianhong Li, Yuzhe Yang
 </div>
 </div>
 
@@ -39,7 +39,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 [TATTOO: Training-free AesTheTic-aware Outfit recOmmendation](https://arxiv.org/pdf/2509.23242)
 
-**Yuntian Wu**, Xiaonan Hu, [Ziqi Zhou](http://zhouziqi.vip/), [Hao Lu](https://sites.google.com/site/poppinace/)
+**Yuntian Wu**, Xiaonan Hu, Ziqi Zhou, Hao Lu
 </div>
 </div>
 
@@ -48,7 +48,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 
 [Invariant spatiotemporal representation learning for cross-patient seizure classification](https://openreview.net/pdf?id=Ex6wAivo7G)
 
-**Yuntian Wu**, Yuntian Yang, Jiabao Sean Xiao, Chuan Zhou, Haochen Sui, [Haoxuan Li](https://haoxuanli-pku.github.io/)
+**Yuntian Wu**, Yuntian Yang, Jiabao Sean Xiao, Chuan Zhou, Haochen Sui, Haoxuan Li
 </div>
 </div>
 
