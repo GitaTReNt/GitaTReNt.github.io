@@ -28,7 +28,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video class="paper-media" src='images/sensorgen_teaser.mp4' width="100%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://tennis-rabbit.github.io/sensor-gen/">Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series</a>
+<a href="https://yang-ai-lab.github.io/sensor-gen/">Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series</a>
 
 **Zitao Shuai**, **Zongzhe Xu**, **Yuntian Wu**, Sirui Li, Tianhong Li, Yuzhe Yang
 </div>
