@@ -51,7 +51,7 @@ My research focuses on **AI for Healthcare, Multimodal Learning, and Physiologic
 
 <a href="https://yang-ai-lab.github.io/sensor-gen/">Signal or Noise? Understanding Generative Models for Real-World Sensor Time Series</a>
 
-**Zitao Shuai**, **Zongzhe Xu**, **Yuntian Wu**, Sirui Li, Tianhong Li, Yuzhe Yang
+Zitao Shuai\*, Zongzhe Xu\*, **Yuntian Wu**\*, Sirui Li, Tianhong Li, Yuzhe Yang
 </div>
 </div>
 
@@ -60,7 +60,7 @@ My research focuses on **AI for Healthcare, Multimodal Learning, and Physiologic
 
 [TATTOO: Training-free AesTheTic-aware Outfit recOmmendation](https://arxiv.org/pdf/2509.23242)
 
-**Yuntian Wu**, Xiaonan Hu, Ziqi Zhou, Hao Lu
+**Yuntian Wu**\*, Xiaonan Hu\*, Ziqi Zhou, Hao Lu
 </div>
 </div>
 
@@ -69,7 +69,7 @@ My research focuses on **AI for Healthcare, Multimodal Learning, and Physiologic
 
 [Invariant spatiotemporal representation learning for cross-patient seizure classification](https://openreview.net/pdf?id=Ex6wAivo7G)
 
-**Yuntian Wu**, Yuntian Yang, Jiabao Sean Xiao, Chuan Zhou, Haochen Sui, Haoxuan Li
+**Yuntian Wu**\*, Yuntian Yang\*, Jiabao Sean Xiao, Chuan Zhou, Haochen Sui, Haoxuan Li
 </div>
 </div>
 
