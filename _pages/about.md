@@ -15,15 +15,36 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+# 💾 About Me
+{: #about-me }
 
 I am a graduate student in the Artificial Intelligence Engineering program at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), and I am currently conducting research at the Health Intelligence Lab at [UCLA](https://www.ucla.edu/) under the supervision of Professor [Yuzhe Yang](https://web.cs.ucla.edu/~yuzhe/). Prior to joining CMU, I received my B.Eng degree in Artificial Intelligence from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/). During my undergraduate studies, I was fortunate to work with Professor [Hao Lu](https://sites.google.com/site/poppinace/) at HUST, Professor [Bin Shi](https://gr.xjtu.edu.cn/web/shibin/english-version) at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/), and Dr. [Haoxuan Li](https://haoxuanli-pku.github.io/) at [Peking University](https://english.pku.edu.cn/).
 
-My research interests lie in **multimodal large language models** (MLLMs), **AI for healthcare**, and **trustworthy machine learning**. I am open to collaborative research opportunities.
+My research focuses on **AI for Healthcare, Multimodal Learning, and Physiological Time Series**. I am open to collaborative research opportunities.
 
-<font color=red>I am actively looking for PhD opportunities beginning in 2027！</font>
+<p class="phd-notice">I am actively seeking PhD opportunities for Fall 2027!</p>
+
+<section class="research-interests" aria-labelledby="research-interests" markdown="1">
+
+# 🔬 Research Interests
+{: #research-interests }
+
+<ul class="research-tags" aria-label="Research topics">
+  <li>AI for Healthcare</li>
+  <li>Physiological Time Series</li>
+  <li>Multimodal Learning</li>
+</ul>
+
+<p class="research-summary">My research interests lie at the intersection of multimodal learning and AI for healthcare, with a particular focus on physiological time series. I am interested in developing models that learn robust representations from heterogeneous health data and generalize across sensors, patients, and cohorts. These interests have led me to explore two main research questions:</p>
+
+- **Representation Learning for Physiological Time Series:** How can we learn generalizable representations from heterogeneous and multichannel physiological signals?
+- **Multimodal Learning for Healthcare:** How can we effectively integrate complementary information from multiple health data sources for prediction and generation in real-world healthcare settings?
+{: .research-questions }
+
+</section>
 
 # 📝 Publications 
+{: .publications-heading }
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><video class="paper-media" src='images/sensorgen_teaser.mp4' width="100%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +64,7 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroAI@NeurIPS 25</div><img src='images/inv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuroAI@NeurIPS 24</div><img src='images/inv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Invariant spatiotemporal representation learning for cross-patient seizure classification](https://openreview.net/pdf?id=Ex6wAivo7G)
@@ -53,18 +74,23 @@ My research interests lie in **multimodal large language models** (MLLMs), **AI 
 </div>
 
 
-# 📖 Educations
-- *2025.08 - Present*, MS, Carnegie Mellon University (with Department Head's Fellowship). 
-- *2021.09 - 2025.07*, B.Eng, Huazhong University of Science and Technology.
+# 📖 Education
+- *2025.08 - Present*, M.S. in Artificial Intelligence Engineering, Carnegie Mellon University (with Department Head's Fellowship).
+- *2021.09 - 2025.07*, B.Eng. in Artificial Intelligence, Huazhong University of Science and Technology.
 
 
 
 # 🏛️ Academic Service
+- Teaching Assistant, _42-631 Neural Data Analysis_, Carnegie Mellon University.
 - Teaching Assistant, _42-632 Neural Signal Processing_, Carnegie Mellon University.
-- Reviewer, AAAI 26-27.
+- Reviewer, AAAI 2026/2027.
 
 
 
 # 💻 Internships 
 - *2024.07 - 2024.08*, LongShine Technology Group Co., Ltd., China.
 - *2023.07 - 2023.08*, LongShine Technology Group Co., Ltd., China.
+
+# 🎸 A Few Things About Me
+
+Away from research, I enjoy road trips, hiking, and exploring new places. I also play fingerstyle acoustic guitar and am always looking for a new piece to learn. I have also gone skydiving and am always up for a new outdoor adventure. If you want to talk research, recommend a hiking trail, or swap guitar pieces, feel free to reach out.
